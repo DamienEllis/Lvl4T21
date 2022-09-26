@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Hangman game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to play
+
+To play Hanman you will need to try to figure out an unknown word by guessing letters. If too many letters which do not appear in the word are guessed, the player loses
+
+Just keep guessing until you get the word right keeping the little man alive!
+
+**Help button is provided**
+
+Hangman game!!
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run the following to install:
 
 ### `npm start`
 
