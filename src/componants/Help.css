@@ -1,0 +1,36 @@
+/*the dive the button is in*/
+.help-div{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Help button styling*/
+.helpBtn{
+    background-color: rgb(245, 44, 8);
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    width: 150px;
+    height: 30px;
+    margin: 15px;
+    padding: 0px;
+    transition: all 0.2s ease;
+}
+
+.helpBtn:hover{
+    background-color: rgb(248, 211, 0);
+}
+
+/*The styling for the title of the modal*/
+.modalTitle{
+    font-size: 35px;
+}
+
+/* Styling for the red X */
+.exitModal{
+    cursor: pointer;
+    padding: 5px;
+    width: 30px;
+    height: auto;
+    float:right;
+}
